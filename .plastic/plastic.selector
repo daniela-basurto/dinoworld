@@ -1,0 +1,4 @@
+repository "Rowdyhack@Rowdy_hacking@cloud"
+  path "/"
+    br "/main"
+    co "/main"
